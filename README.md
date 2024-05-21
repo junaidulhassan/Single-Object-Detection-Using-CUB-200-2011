@@ -1,4 +1,4 @@
-# Object Detection and Bounding Box Localization in CUB-200-2011 Dataset
+# Object Detection using CUB-200-2011 Dataset
 
 In this project, we develop an original Convolutional Neural Network (CNN) combined with a linear regression component to accurately identify objects and draw bounding boxes around them within the CUB-200-2011 dataset. Our approach features a tailored CNN architecture designed specifically for object detection tasks, eliminating the need for popular yet computationally intensive pre-trained models such as YOLO or Faster R-CNN. By separating classification and localization responsibilities between our custom CNN and linear regression components, respectively, we achieve robust performance while maintaining computational efficiency.
 
